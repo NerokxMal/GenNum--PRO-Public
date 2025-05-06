@@ -1,13 +1,14 @@
 {
   "version": "3.4",
-  "download_url": "https://github.com/NerokxMal/GenNum--PRO/releases/download/GenNumPRO_v3.3/GenNumPRO._V3.3.exe",
+  "download_url": "https://github.com/NerokxMal/GenNum--PRO-Public/releases/download/GenNumPRO_v3.4/GenNumPRO._V3.4.exe",
   "size": 10485760,
   "checksum": "",
   "notas": {
     "correcciones": [
       "Límites estrictos para números Tigo",
       "Mejor manejo de caracteres especiales",
-      "Optimización del sistema de hilos QThread"
+      "Optimización del sistema de hilos QThread",
+      "Actualizaciones vuelven a la normalidad"
     ],
     "nuevas_funciones": [
       "Herramienta 'Quitar 57' integrada",
