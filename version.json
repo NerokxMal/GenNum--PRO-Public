@@ -1,0 +1,22 @@
+{
+    "version": "3.2",
+    "download_url": "https://github.com/NerokxMal/GenNum--PRO/releases/download/GenNumPRO_v3.2/GenNumPRO_V3.2.exe",
+    "size":  72351744,
+    "notas": {
+    "correcciones": [
+      "Solucionado problema en la generación de secuenciales",
+      "Se limpia FireBase para tener un nuevo manejo de datos",
+      "Corregido error que cerraba la aplicación antes de actualizar"
+    ],
+    "nuevas_funciones": [
+      "Mejorada función de exportación con más formatos disponibles",
+      "Se limitan los generacionales de Tigo según la estipulación"
+    ],
+    "mejoras": [
+      "Optimización en el uso de QThreads",
+      "Reducción del consumo de memoria en QT Core",
+      "Tiempos de carga inicial mejorados en un 55%"
+    ]
+  }
+}
+ 
