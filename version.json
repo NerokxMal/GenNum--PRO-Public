@@ -1,21 +1,22 @@
 {
-  "version": "3.5",
+  "version": "3.6",
   "release_date": "2025-05-08",
-  "download_url": "https://github.com/NerokxMal/GenNum--PRO-Public/releases/download/GenNumPRO_v3.5/GenNumPRO._V3.5.exe",
+  "download_url": "https://github.com/NerokxMal/GenNum--PRO-Public/releases/download/GenNumPRO_v3.6/GenNumPRO._V3.6.exe",
   "checksum": "a1b2c3d4e5f6... (SHA-256 del archivo)",
-  "size": 5242880,
-  "min_required_version": "3.0",
+  "size": 73400320,
+  "min_required_version": "3.2",
   "notas": {
     "correcciones": [
       "Solucionado problema de autenticación con salt",
+      "Se corrigen el diseño para iniciar sesion",
       "Mejor manejo de conexiones intermitentes con Firebase"
     ],
     "nuevas_funciones": [
-      "Opción para exportar números en formato CSV",
+      "Nuevo inicio de sesion",
       "Menú de estadísticas mejorado"
     ],
     "mejoras": [
-      "30% más rápido al generar números",
+      "70% más rápido al generar números",
       "Interfaz optimizada para pantallas pequeñas"
     ]
   }
