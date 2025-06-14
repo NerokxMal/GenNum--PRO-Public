@@ -2,7 +2,7 @@
   "version": "4.2",
   "download_url": "https://github.com/NerokxMal/GenNum--PRO-Public/releases/download/GenNum%D0%96_v4.2/GenNumPRO._V4.2.exe",
   "size": 10547200,
-  "checksum": "sha256:5a1c7a1f65e8a7a9a3d8b1c6b8a0e5d3c2b1a0f7e6d5c4b3a2f1e0d9c8b7a6",
+  "checksum": "sha256:0b90d8048f0aa2e05eb8b07f38a5b00abf958366a30d04b8b2d55641c7edb0eb",
   "notas": {
     "correcciones": [
       "Se corrigió el problema que causaba que la aplicación se congelara al generar números de Tigo en el ejecutable compilado",
